@@ -33,6 +33,6 @@ Quest Stages:
 200 - Ava has given me a backpack that retrieves my arrows.
 
 Rewards:
-Ava's Attractor = 30 <= Archery Skill < 50
+Ava's Attractor = Archery Skill < 50
 Ava's Accumulator = 50 <= Archery Skill < 70
 Ava's Assembler = Archery Skill > 70
