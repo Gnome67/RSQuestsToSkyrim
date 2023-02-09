@@ -1,25 +1,59 @@
-Daedra Slayer -> The Golem -> Shadow of the Storm
+---Daedra Slayer---
 
-Daedra Slayer - You are approached by a member of the Vigilants of Stendarr (or Dawnguard after the attack on the Hall) and are asked to destroy the daedra Delrith outside Winterhold.
+Start Point: Speak to Olava the Feeble, in Whiterun.
 
-The Golem - You are contacted by note to help destroy another daedra in Markarth’s Nchuand-Zel. You arrive to find the sender, a passive Dwarven Centurion, in disrepair, falsely believing there to be a daedra. You are to repair him.
+Official Difficulty: Novice
 
-Shadow of the Storm - The Centurion was not entirely broken, you find out, as you return to see the fearsome Agrith-Naar causing an attack in Understone Keep. You are to stop him.
+Description: You are tasked with destroying the daedra Delrith outside Whiterun.
 
-Start Point: 
+Official length: Short
 
-Official Difficulty: 
+Requirements: None
 
-Description: 
+Items required: None
 
-Official length: 
+Enemies to defeat: Delrith (level 27)
 
-Requirements: 
+Quest Stages: 
 
-Items required: 
+Rewards: Silverlight
 
-Enemies to defeat: 
+---The Golem---
+
+Start Point: Talk to Uzer, the centurion in Nchuand-Zel.
+
+Official Difficulty: Intermediate
+
+Description: You are contacted by note to help destroy a daedra in Markarth’s Nchuand-Zel. You arrive to find the sender, a passive Dwarven Centurion, in disrepair, falsely believing there to be a daedra. You are to repair him.
+
+Official length: Short
+
+Requirements: None
+
+Items required: None
+
+Enemies to defeat: None
 
 Quest Stages: 
 
 Rewards: 
+
+---Shadow of the Storm---
+
+Start Point: Talk to Father Reen, in Understone Keep.
+
+Official Difficulty: Intermediate
+
+Description: The Centurion was not entirely broken, you find out, as you return to see the fearsome Agrith-Naar causing an attack in Understone Keep. You are to stop him.
+
+Official length: Medium
+
+Requirements: Completion of 'Daedra Slayer' and 'The Golem'
+
+Items required: Silverlight
+
+Enemies to defeat: Agrith-Naar (level 100)
+
+Quest Stages: 
+
+Rewards: Darklight, 1 level in any skill
